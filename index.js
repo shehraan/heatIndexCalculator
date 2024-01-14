@@ -7,7 +7,7 @@
   Updated:     29-Oct-2022
 */
 
-/* This program uses the right method to get the heat index calculation through the formula that is available on weather.gov. The calculation lets a person pass the base temperature and humidity on a particular day and the program will return a calculated heat index off it (Used a loop to go through multiple days calculate it for everything). If the heat index is above certain thresholds, this program will warn the user about the heat conditions. If it isn't, it will tell the user that the head conditions are safe and don't require any caution*/
+/* This program uses a well-known method to get the heat index calculation through the formula that is available on weather.gov. The calculation lets a person pass the base temperature and humidity on a particular day and the program will return a calculated heat index off it (Used a loop to go through multiple days calculate it for everything). If the heat index is above certain thresholds, this program will warn the user about the heat conditions. If it isn't, it will tell the user that the head conditions are safe and don't require any caution*/
 
 // Let answer = true
 let answer = "YES"
